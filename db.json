@@ -1,0 +1,33 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "first_name": "Uzzal",
+        "last_name": "Mia",
+        "email": "uzzal@example.com",
+        "phone": "+1-234-567-8901",
+        "address": {
+          "street": "123 Main St",
+          "city": "New York",
+          "state": "NY",
+          "zip_code": "10001",
+          "country": "USA"
+        }
+      },
+      {
+        "id": 2,
+        "first_name": "Iftekhar Hasan",
+        "last_name": "Emon",
+        "email": "emon@example.com",
+        "phone": "+1-345-678-9012",
+        "address": {
+          "street": "456 Elm St",
+          "city": "Los Angeles",
+          "state": "CA",
+          "zip_code": "90001",
+          "country": "USA"
+        }
+      }
+    ]
+}
+  
